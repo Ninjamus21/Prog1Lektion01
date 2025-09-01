@@ -104,3 +104,4 @@ public class Opgaver {
         System.out.println(gennemsnitsfart);
     }
 }
+//
